@@ -31,7 +31,7 @@ The BSA is unbelievably efficient compared to a linear search, in which you move
 
 With a linear search you only eliminate one possible element from your list. This means a O(n) runtime, because in the worst case you will have to go through all of your n elements.
 
-The BSA eliminates **half** of the possible elements with every step. This is a O(logn) runtime.
+The BSA eliminates **half** of the possible elements with every step. This is logarithmic time, or log time or O(logn) runtime.
 
 This gets important for very big datasets. In a list with 30 million elements you would at **maximum only need 25 steps** to find your element.
 

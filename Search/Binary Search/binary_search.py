@@ -11,20 +11,21 @@ def binary_search(num_to_find, array_length=50):
     arr = init_array(array_length)
 
     low = 0
-    high = len(arr)
+    high = len(arr) -1
 
-    while True:
+    while low <= high:
         steps += 1
         mid = (low + high) // 2
         current_element = arr[mid]
         if current_element == num_to_find:
             return mid, steps
         elif current_element < num_to_find:
-            low = mid
+            low = mid + 1
         elif current_element > num_to_find:
-            high = mid
+            high = mid - 1
+    return None, steps
 
-n = 1000000
-element_to_find = 37
+n = 100
+element_to_find = 200
 index, steps = binary_search(element_to_find, n)
 print(f"It took {steps} steps to find '{element_to_find}' in a list with {n} Elements.\nIndex is at {index}")
