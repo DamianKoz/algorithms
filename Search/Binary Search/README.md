@@ -1,9 +1,9 @@
-# Binary Search
-
 - [Binary Search](#binary-search)
-  - [How does it work?](#how-does-it-work)
-  - [How efficient is it?](#how-efficient-is-it)
-  - [When not to use it?](#when-not-to-use-it)
+- [How does it work?](#how-does-it-work)
+- [How efficient is it?](#how-efficient-is-it)
+- [When not to use it?](#when-not-to-use-it)
+
+# Binary Search
 
 Binary search is an amazing search algorithm.
 
@@ -16,13 +16,13 @@ Then you estimate againg around half to get to your page until you are there.
 
 This is very similar to the binary search algorithm (BSA).
 
-## How does it work?
+# How does it work?
 
 The BSA starts in the middle of your list. It checks whether the current element is below or above your current element.
 
 And then it starts over again by going to the half of the remaining elements. And then again. And then again.
 
-## How efficient is it?
+# How efficient is it?
 
 The BSA is unbelievably efficient compared to a linear search, in which you move one element at a time from the beginning to the end.
 
@@ -38,6 +38,6 @@ Especially if you consider, that you might otherwise need 30 million steps in wo
 
 ![](runtime.jpg))
 
-## When not to use it?
+# When not to use it?
 
 The limitation of binary search is, that you can only use it in already sorted lists.
