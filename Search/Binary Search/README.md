@@ -8,10 +8,13 @@
 Binary search is an amazing search algorithm.
 
 Imagine that you are reading your favorite book, but forgot your bookmark and will have to remember your last read page (which was 216).
+
 Tomorrow you are back at your book and want to open your last read page.
+
 Well, how do you do this? I think most people would not start at the beginning: 1, 2, 3, 4 ...
 
 No, you would probably start somewhere in the middle and check, whether your desired page is lower or higher than the one you opened.
+
 Then you estimate againg around half to get to your page until you are there.
 
 This is very similar to the binary search algorithm (BSA).
@@ -36,7 +39,7 @@ I find this quite mindblowing.
 
 Especially if you consider, that you might otherwise need 30 million steps in worst case with linear search.
 
-![](runtime.jpg))
+![](runtime.jpg)
 
 # When not to use it?
 
