@@ -2,6 +2,8 @@
 
 This is a repo in which I collect my knowledge on algorithms.
 
+- [Binary Search](https://github.com/DamianKoz/algorithms/tree/main/Search/Binary%20Search)
+
 ## Importance of Algorithms
 
 Is it better to use an Algorithm with 40 Steps over one with 50 million?
