@@ -1,3 +1,6 @@
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
 - [Binary Search](#binary-search)
 - [How does it work?](#how-does-it-work)
 - [How efficient is it?](#how-efficient-is-it)

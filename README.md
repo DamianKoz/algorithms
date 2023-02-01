@@ -2,6 +2,8 @@
 
 This is a repo in which I collect my knowledge on algorithms.
 
+Use these links to navigate easier:
+
 - [Binary Search](https://github.com/DamianKoz/algorithms/tree/main/Search/Binary%20Search)
 
 ## Importance of Algorithms
