@@ -12,5 +12,6 @@ By always inserting the smallest element into the new list (or into the beginnin
 
 Because having to go through every element for every iteration you get a **time complexity of $O(n^2)$**
 
-![](https://commons.wikimedia.org/wiki/File:Insertion_sort.gif#/media/Datei:Insertion_sort.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
+
 Thanks to wikipedia for this animation
