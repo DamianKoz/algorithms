@@ -11,3 +11,6 @@ This is then repeated.
 By always inserting the smallest element into the new list (or into the beginning of the list to be more space efficient) you get a sorted list.
 
 Because having to go through every element for every iteration you get a **time complexity of $O(n^2)$**
+
+!()[https://commons.wikimedia.org/wiki/File:Insertion_sort.gif#/media/Datei:Insertion_sort.gif]
+Thanks to wikipedia for this animation
