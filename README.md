@@ -6,7 +6,7 @@ Use these links to navigate easier:
 
 - [Binary Search](https://github.com/DamianKoz/algorithms/tree/main/Search/Binary%20Search)
 
-## Importance of Algorithms
+<!-- ## Importance of Algorithms -->
 
 Is it better to use an Algorithm with 40 Steps over one with 50 million?
 This might sound like a stupid question, but we have become so accustomed to raw computational power, that we too often go with an inefficient solution, because the computational power makes it look fast anyways. And this might often enough be true, but there are situations in which every millisecond counts and where we should opt for a more performant solution.
